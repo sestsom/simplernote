@@ -19,17 +19,6 @@ A clean, fast, and simple markdown note-taking application for Windows, built wi
 
 [Download Latest Release](https://github.com/sestsom/simplernote/releases/latest)
 
-## Screenshots
-
-### Edit Mode
-Clean markdown editing with syntax highlighting
-
-### Split Mode
-Side-by-side editing and preview for real-time feedback
-
-### Preview Mode
-Beautifully rendered markdown output
-
 ## Keyboard Shortcuts
 
 - `Ctrl+N` - New Note
