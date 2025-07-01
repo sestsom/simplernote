@@ -1,0 +1,18 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="128" cy="128" r="120" fill="#4a90e2" stroke="none"/>
+  
+  <!-- Document background -->
+  <rect x="70" y="50" width="116" height="156" rx="8" ry="8" fill="white" stroke="none"/>
+  
+  <!-- Markdown "M" symbol -->
+  <path d="M 90 80 L 90 160 L 105 160 L 105 100 L 120 130 L 135 100 L 135 160 L 150 160 L 150 80 L 130 80 L 120 110 L 110 80 Z" fill="#4a90e2"/>
+  
+  <!-- Down arrow (markdown symbol) -->
+  <path d="M 160 80 L 160 140 M 150 130 L 160 140 L 170 130" stroke="#4a90e2" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Document lines (subtle) -->
+  <rect x="85" y="170" width="60" height="2" fill="#e0e0e0"/>
+  <rect x="85" y="180" width="50" height="2" fill="#e0e0e0"/>
+  <rect x="85" y="190" width="55" height="2" fill="#e0e0e0"/>
+</svg>
