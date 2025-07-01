@@ -1,4 +1,4 @@
-# SimplerNote
+# Simpler Note
 
 A clean, fast, and simple markdown note-taking application for Windows, built with Electron.
 
