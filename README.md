@@ -29,29 +29,6 @@ A clean, fast, and simple markdown note-taking application for Windows, built wi
 - `Ctrl+2` - Split Mode
 - `Ctrl+3` - Preview Mode
 
-## Development
-
-### Prerequisites
-- Node.js 16 or higher
-- npm
-
-### Setup
-```bash
-git clone https://github.com/sestsom/simplernote.git
-cd simplernote
-npm install
-```
-
-### Run Development Version
-```bash
-npm start
-```
-
-### Build for Distribution
-```bash
-npm run dist
-```
-
 ## Supported Markdown
 
 - Headers (`#`, `##`, `###`)
